@@ -156,9 +156,10 @@ nav button {
 }
 
 .header_right form {
+    max-width: 470px;
     border: 1px solid #D9D9D9;
     border-radius: 100px;
-    padding: 8px 8px 8px 16px;
+    padding: 8px;
 }
 
 
@@ -509,7 +510,7 @@ footer .container p{
     }
 
     .header_right form {
-        padding: 6px 6px 6px 16px;
+        padding: 6px;
     }
 
     .img_location{
